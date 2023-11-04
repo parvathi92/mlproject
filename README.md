@@ -1,1 +1,1 @@
-## Machine learning project using Linear Regression
+## Electricity consumption prediction project
